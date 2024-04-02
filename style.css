@@ -31,7 +31,14 @@ body {
 
 }
 
-
+/* body.linked .button, body.linked h1 {
+    opacity: 0.3;
+    transition: opacity 300ms linear;
+}
+body.linked p {
+    color: var(--color-smoke);
+    transition: color 300ms linear;
+} */
 h1 {
     text-align: center;
     transition: opacity 300ms linear;
